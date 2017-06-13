@@ -1,0 +1,14 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^4.0.0",
+        "gulp-sass": "^3.1.0"
+    },
+    "devDependencies": {},
+    "author": "Talanoff",
+    "license": "ISC"
+}
